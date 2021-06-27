@@ -3,4 +3,6 @@
     <string name="language">Language</string>
     <string name="deutsch">Deutsch</string>
     <string name="englisch">Deutsch</string>
+    <string name="next_page">Memo</string>
+    <string name="create_new_memo">Create New Memo</string>
 </resources>
